@@ -23,4 +23,9 @@ int main(){
 	cout << (sepatu_bola.ciri)<<endl;
 	sepatu_bola.perbedaannya("Sepatu yang mempunyai gerigi di alasnya, yang di khususkan untuk lapangan berumput");
 	cout <<endl;
+	
+	cout << "Sepatu Jogging"<<endl;	
+	cout << (sepatu_jogging.ciri)<<endl;
+	sepatu_jogging.perbedaannya("Sepatu yang pada dasarnya ringan untuk di gunakan saat jalan santai");
+	cout <<endl;
 }
