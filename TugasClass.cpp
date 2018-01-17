@@ -1,6 +1,12 @@
 #include <iostream>
 using namespace std;
 
-int main(){
-	
+class sepatu_olahraga{
+	public:
+		void perbedaannya(string olahraga);
+		int  harga;
+		string ciri;
+};
+
+int main(){	
 }
