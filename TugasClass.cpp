@@ -34,3 +34,8 @@ int main(){
 	sepatu_roda.perbedaannya("Sepatu yang mempunyai roda di setiap pasang, dan hanya dapat digunakan di area tertentu ");
 	cout <<endl;
 }
+
+void sepatu_olahraga::perbedaannya(string olahraga){
+	cout << "Perbedaannya "<< olahraga <<" !!"<<endl;
+	cout << "Haraga = Rp "<< harga <<",00"<<endl;
+}
