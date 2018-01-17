@@ -18,4 +18,9 @@ int main(){
 	sepatu_bola.harga=400000;
 	sepatu_jogging.harga=4500000;
 	sepatu_roda.harga=275000;
+	
+	cout << "Sepatu Bola"<<endl;	
+	cout << (sepatu_bola.ciri)<<endl;
+	sepatu_bola.perbedaannya("Sepatu yang mempunyai gerigi di alasnya, yang di khususkan untuk lapangan berumput");
+	cout <<endl;
 }
