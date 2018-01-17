@@ -9,4 +9,5 @@ class sepatu_olahraga{
 };
 
 int main(){	
+	sepatu_olahraga sepatu_bola, sepatu_jogging, sepatu_roda;
 }
