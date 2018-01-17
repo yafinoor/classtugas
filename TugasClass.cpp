@@ -28,4 +28,9 @@ int main(){
 	cout << (sepatu_jogging.ciri)<<endl;
 	sepatu_jogging.perbedaannya("Sepatu yang pada dasarnya ringan untuk di gunakan saat jalan santai");
 	cout <<endl;
+	
+	cout << "Sepatu Roda"<<endl;	
+	cout << (sepatu_roda.ciri)<<endl;
+	sepatu_roda.perbedaannya("Sepatu yang mempunyai roda di setiap pasang, dan hanya dapat digunakan di area tertentu ");
+	cout <<endl;
 }
