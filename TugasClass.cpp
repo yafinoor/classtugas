@@ -14,4 +14,8 @@ int main(){
 	sepatu_bola.ciri="Mempunyai Alas Bergerigi";
 	sepatu_jogging.ciri="Mempunyai Alas yang keset";
 	sepatu_roda.ciri="Mempunyai beberapa Roda di setiap alas sepatu";
+	
+	sepatu_bola.harga=400000;
+	sepatu_jogging.harga=4500000;
+	sepatu_roda.harga=275000;
 }
